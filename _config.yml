@@ -1,0 +1,11 @@
+# Site settings
+title: Intentional Listener
+tag_text: Intentional Listener
+description: A Radio Show hosted by Willie Payne and Friends.
+github_username: Huriphoonado
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
