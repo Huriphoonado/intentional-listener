@@ -1,5 +1,6 @@
 # Intentional Listener
+A simple, single-page website to share the playlists made by my friends and I for a radio show we host on [Radio 1190](http://www.radio1190.org).
 
-Modified from the Solo theme: [Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+It may be found on http://intentional-listener.com.
 
-### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
+Modified from the [Solo](http://chibicode.github.io/solo) theme.
