@@ -31,6 +31,7 @@ We are a group of friends, ([Willie Payne](http://williepayne.com), Jordan Dawso
 <iframe src="https://embed.spotify.com/?uri=spotify:user:huriphoonado:playlist:3p56385LN7Xl8HhEoAT5bO&theme=white" width="600" height="500" frameborder="0" allowtransparency="true"></iframe>
 
 ![Black Squiggles](images/43.png )
+
 ### Willie Payne, 2017
 
 ## 42. Pulses
@@ -39,7 +40,8 @@ We are a group of friends, ([Willie Payne](http://williepayne.com), Jordan Dawso
 ## 41. Minimal/Maximal
 <iframe src="https://embed.spotify.com/?uri=spotify:user:huriphoonado:playlist:25hJtn5c0v870arzzbHLdU&theme=white" width="600" height="500" frameborder="0" allowtransparency="true"></iframe>
 
-![Meditating Man](images/41.jpg)
+![Meditating Man](images/41.JPG)
+
 ### Willie Payne, 2014
 
 ## 40. Vocal Effects II
